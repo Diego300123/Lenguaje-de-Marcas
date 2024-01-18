@@ -1,0 +1,11 @@
+table {border: 1px solid;}
+
+table tr:nth-child(odd) 
+{
+    background-color: aquamarine;color: red; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+table tr:nth-child(even) 
+{
+    background-color: beige;color: blue; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
